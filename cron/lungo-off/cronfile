@@ -1,0 +1,4 @@
+SHELL=/bin/zsh
+PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
+
+0 0 * * * lungo off
